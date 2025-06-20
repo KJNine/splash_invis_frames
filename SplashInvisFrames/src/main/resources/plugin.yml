@@ -1,0 +1,5 @@
+name: SplashInvisFrames
+version: '${project.version}'
+author: SmytheSoft
+main: net.kjnine.plugins.splashinvisframes.SplashInvisFrames
+api-version: '1.20'
